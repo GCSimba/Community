@@ -1,6 +1,6 @@
 # Community
 
-一、首页搭建：
+一、首页搭建模块：
 1.	数据库建表：user表、comment表、discuss_post表、login_ticket表、user表
 2.	创建User、discussPost、Page模型。
 3.	DiscussPostDAO:分页查询帖子的数量、查询帖子的行数(方便分页)
