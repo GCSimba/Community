@@ -10,4 +10,5 @@
   UserService：根据id查用户
 5.	HomeController:getIndexPage():展示首页的内容
 
-二、开发社区登陆模块
+二、登陆模块
+三、核心模块
